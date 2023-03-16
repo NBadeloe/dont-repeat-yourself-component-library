@@ -1,3 +1,11 @@
+# Dont repeat yourself cmd
+
+ik heb tijdens dit project gewerkt aan de text carousel wat een van de onderdelen is van de cmd component library.
+
+<img width="1436" alt="screenshot van cmd midterm website" src="https://github.com/NBadeloe/dont-repeat-yourself-component-library/blob/main/docs/dont-repeat-yourself-component.gif">
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
